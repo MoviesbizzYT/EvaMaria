@@ -60,6 +60,11 @@ You can deploy this bot anywhere.
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
+  <p>
+    <<a href="https://render.com/deploy?repo=https://github.com/MoviesbizzYT/EvaMaria">
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+</a>
+    </p>
 </details>
 
 <details><summary>Deploy To VPS</summary>
